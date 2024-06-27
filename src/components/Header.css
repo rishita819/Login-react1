@@ -1,0 +1,10 @@
+.login-header {
+  font-size: 2em;
+  color: #fff;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
